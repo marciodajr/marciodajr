@@ -5,7 +5,7 @@
 
 ### Hi there! 👋
 
-- 🧙 **Fullstack** web developer. **Front-end** passionate.
+- 🧙 **Fullstack** JS developer. **Front-end** passionate.
 - 📚 React.js, React Native, Node.js, Javascript, PHP and **more**.
 
 - ⚡ Fun facts: 
