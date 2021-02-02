@@ -6,7 +6,7 @@
 ### Hi there! 👋
 
 - 🧙 **Fullstack** JS developer. **Front-end** passionate.
-- 📚 React.js, React Native, Node.js, Javascript, PHP and **more**.
+- 📚 Javascript, TypeScript, React, React Native, Node and **more**.
 
 - ⚡ Fun facts: 
   - Software entrepreneur 💻
