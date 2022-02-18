@@ -16,12 +16,10 @@
   - Have a dog 🐶 
 
 <div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodajr&layout=compact&theme=chartreuse-dark)](https://github.com/marciodajr/github-readme-stats)
-  
+  <a href="https://github.com/guilhermelange">
+  <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="width: 49%; float: right; margin: none;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodajr&layout=compact&theme=chartreuse-dark"/>
 </div>
+  
 
 ---
