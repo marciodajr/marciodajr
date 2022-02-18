@@ -1,16 +1,16 @@
-### Marcio dos Anjos Junior
+## Marcio dos Anjos Junior
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marciodajr)](https://github.com/marciodajr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodajr/)](https://www.linkedin.com/in/marciodajr/)
 
-## Hi there! 👋
+### Hi there! 👋
 
 * 💻 JavaScript enthusiasts 
 * 🧙 **Fullstack Developer**
 * ❤️ **Front-end** passionate
 * 📚 Javascript, TypeScript, Node, React, React Native
 
-## Statistics
+### Statistics
 
 <div>
   <a href="https://github.com/marciodajr">
