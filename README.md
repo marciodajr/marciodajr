@@ -7,10 +7,13 @@
 ### Hi there! 👋
 
 🧙 **Fullstack Developer**
+<br/>
 ❤️ **Front-end** passionate
+<br/>
 📚 Javascript, TypeScript, Node, React, React Native, and **more**.
 
 ⚡ Fun facts 
+
 💻 JavaScript enthusiasts 
 🍺 Beer lover 
 🐶 Have a dog
