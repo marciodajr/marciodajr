@@ -5,8 +5,8 @@
 
 ### Hi there! 👋
 
-* 💻 JavaScript enthusiasts 
-* 🧙 **Fullstack Developer**
+* 💻 **JavaScript** enthusiast
+* 🧙 **Fullstack** Developer
 * ❤️ **Front-end** passionate
 * 📚 Javascript, TypeScript, Node, React, React Native
 
