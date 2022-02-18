@@ -6,7 +6,7 @@
 
 ### Hi there! 👋
 
-🧙 **Fullstack Developer**
+* 🧙 **Fullstack Developer**
 <br/>
 ❤️ **Front-end** passionate
 <br/>
