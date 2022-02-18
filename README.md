@@ -6,14 +6,14 @@
 
 ### Hi there! 👋
 
-- 🧙 **Fullstack Developer**
-- ❤️ **Front-end** passionate
-- 📚 Javascript, TypeScript, Node, React, React Native, and **more**.
+🧙 **Fullstack Developer**
+❤️ **Front-end** passionate
+📚 Javascript, TypeScript, Node, React, React Native, and **more**.
 
-- ⚡ Fun facts: 
-  - 💻 JavaScript enthusiasts 
-  - 🍺 Beer lover 
-  - 🐶 Have a dog
+⚡ Fun facts 
+💻 JavaScript enthusiasts 
+🍺 Beer lover 
+🐶 Have a dog
 
 ### Statistics
 
