@@ -5,9 +5,10 @@
 
 ### Hi there! 👋
 
+* 🇧🇷 I'm brazilian in the world
 * 💻 **JavaScript** enthusiast
 * 🧙 **Fullstack** Developer
-* ❤️ **Front-end** passionate
+* 💙 **Front-end** passionate
 * 📚 Javascript, TypeScript, Node, React, React Native
 
 ### Statistics
