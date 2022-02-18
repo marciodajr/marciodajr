@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marciodajr)](https://github.com/marciodajr/github-readme-stats)
+
 - ⚡ Fun facts: 
   - Technology enthusiasts 💻
   - Beer lover 🍺
