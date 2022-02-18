@@ -6,16 +6,19 @@
 
 ### Hi there! 👋
 
-- 🧙 **Fullstack Developer**, **Front-end** passionate.
+- 🧙 **Fullstack Developer**
+-  **Front-end** passionate.
 - 📚 Javascript, TypeScript, Node, React, React Native, and **more**.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodajr&layout=compact&theme=chartreuse-dark)](https://github.com/marciodajr/github-readme-stats)
 
 - ⚡ Fun facts: 
   - Technology enthusiasts 💻
   - Beer lover 🍺
   - Have a dog 🐶 
+
+<div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciodajr&layout=compact&theme=chartreuse-dark)](https://github.com/marciodajr/github-readme-stats)
+</div>
 
 ---
