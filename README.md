@@ -5,11 +5,13 @@
 
 ### Hi there! 👋
 
-- 🧙 **Fullstack** JS developer. **Front-end** passionate.
-- 📚 Javascript, TypeScript, React, React Native, Node and **more**.
+- 🧙 **Fullstack Developer**, **Front-end** passionate.
+- 📚 Javascript, TypeScript, Node, React, React Native, and **more**.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark)
 
 - ⚡ Fun facts: 
-  - Software entrepreneur 💻
+  - Technology enthusiasts 💻
   - Beer lover 🍺
   - Have a dog 🐶 
 
