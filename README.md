@@ -15,6 +15,8 @@
   - Beer lover 🍺
   - Have a dog 🐶 
 
+## Statistcs
+
 <div>
   <a href="https://github.com/marciodajr">
   <img height="150em" style="width: 49%; border:0; margin: 0" src="https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
