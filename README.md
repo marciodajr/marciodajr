@@ -5,7 +5,7 @@
 
 ### Hi there! 👋
 
-* 🇧🇷 I'm brazilian in the world
+* 🇧🇷 Brazilian in the world tech
 * 💻 **JavaScript** enthusiast
 * 🧙 **Fullstack** Developer
 * 💙 **Front-end** passionate
