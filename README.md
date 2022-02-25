@@ -5,11 +5,10 @@
 
 ### Hi there! 👋
 
-* 🇧🇷 Brazilian in the world tech
-* 💻 **JavaScript** enthusiast
-* 🧙 **Fullstack** Developer
-* 💙 **Front-end** passionate
-* 📚 Javascript, TypeScript, Node, React, React Native
+* 🇧🇷 **Brazilian**
+* 🧙 **Full-stack JavaScript** Developer
+* 📚 Javascript, TypeScript, NodeJS
+* 🧰 Current frameworks: **NestJS, ReactJS, React Native**
 
 ### Statistics
 
