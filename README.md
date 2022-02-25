@@ -6,7 +6,7 @@
 ### Hi there! 👋
 
 * 🇧🇷 **I'm brazilian**
-* 🧙 **Full-stack JavaScript** Developer
+* 🧙 **Full-stack JavaScript** developer
 * 📚 Javascript, TypeScript, NodeJS
 * 🔥 Current use: **NestJS, ReactJS, React Native**
 
