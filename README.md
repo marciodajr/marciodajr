@@ -8,7 +8,7 @@
 * 🇧🇷 **I'm brazilian**
 * 🧙 **Full-stack JavaScript** Developer
 * 📚 Javascript, TypeScript, NodeJS
-* ⚡️ Current use: **NestJS, ReactJS, React Native**
+* 🔥 Current use: **NestJS, ReactJS, React Native**
 
 ### Statistics
 
