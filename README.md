@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodajr)](https://www.linkedin.com/in/marciodajr) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@marciodosanjosjunior)](https://medium.com/@marciodosanjosjunior)
 
 * 🇧🇷 **I'm brazilian**
-* 🧙 **Sr Full-stack developer**
+* 🧙 **Tech Lead**
 
 <br />
 
-### 💻 &nbsp; Tech Stack
+### 💻 &nbsp; Team Stack
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
