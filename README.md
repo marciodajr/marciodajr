@@ -7,7 +7,7 @@
 
 <br />
 
-### 💻 &nbsp; Tech Stack
+### &nbsp; Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,6 +24,6 @@
 
 <br />
 
-### 📊 &nbsp; Github Stats
+### &nbsp; Github Stats
 
 <div><img height="180px" style="width: 41%; margin:0"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodajr&layout=compact&theme=chartreuse-dark"/><img height="180px" style="width: 48%; margin: 0" src="https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></div>
