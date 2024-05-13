@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodajr)](https://www.linkedin.com/in/marciodajr) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@marciodosanjosjunior)](https://medium.com/@marciodosanjosjunior)
 
 * 🇧🇷 **I'm brazilian**
-* 🧙 **Developer**
+* 🧙 **Software Engineer**
 
 <br />
 
