@@ -1,13 +1,10 @@
 # Hey, I'm Junior 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodajr)](https://www.linkedin.com/in/marciodajr) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@marciodosanjosjunior)](https://medium.com/@marciodosanjosjunior)
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff152d?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@marciodajr)](https://www.youtube.com/@marciodajr) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciodajr)](https://www.linkedin.com/in/marciodajr) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@marciodosanjosjunior)](https://medium.com/@marciodosanjosjunior)
 
-* 🇧🇷 **I'm brazilian**
-* 🧙 **Software Engineer**
+I'm a **Software Engineer**, building scalable and efficient solutions for web and mobile applications. Currently based in **Brazil** 🇧🇷 I work on projects that integrate **Web, Mobile, IoT, AI, and Cloud Computing**. 
 
-<br />
-
-### &nbsp; Tech Stack
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,9 +18,5 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br />
-
-### &nbsp; Github Stats
-
-<div><img height="180px" style="width: 41%; margin:0"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodajr&layout=compact&theme=chartreuse-dark"/><img height="180px" style="width: 48%; margin: 0" src="https://github-readme-stats.vercel.app/api?username=marciodajr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></div>
+![Ollama](https://img.shields.io/badge/ollama-ffffff.svg?style=for-the-badge&logo=ollama&logoColor=black)
+![AWS](https://img.shields.io/badge/aws-ffffff.svg?style=for-the-badge&logo=amazonwebservices&logoColor=black)
