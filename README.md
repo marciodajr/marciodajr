@@ -6,6 +6,7 @@ I'm a **Software Engineer**, building scalable and efficient solutions for web a
 
 ### Tech Stack
 
+![Artificial intelligence (AI)](https://img.shields.io/badge/Artificial_intelligence_(AI)-ffffff.svg?style=for-the-badge&logo=codex&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -18,5 +19,4 @@ I'm a **Software Engineer**, building scalable and efficient solutions for web a
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-ffffff.svg?style=for-the-badge&logo=ollama&logoColor=black)
-![AWS](https://img.shields.io/badge/aws-ffffff.svg?style=for-the-badge&logo=amazonwebservices&logoColor=black)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
